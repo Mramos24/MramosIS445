@@ -1,0 +1,5 @@
+C:\Users\DELL\Desktop\IS 445\HW7\IS445HW7\IS445HW7\bin\IS445HW7.dll
+C:\Users\DELL\Desktop\IS 445\HW7\IS445HW7\IS445HW7\bin\IS445HW7.pdb
+C:\Users\DELL\Desktop\IS 445\HW7\IS445HW7\IS445HW7\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\IS 445\HW7\IS445HW7\IS445HW7\obj\Debug\IS445HW7.dll
+C:\Users\DELL\Desktop\IS 445\HW7\IS445HW7\IS445HW7\obj\Debug\IS445HW7.pdb

@@ -1,0 +1,68 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="IS445HW7.MasterPages.Site1" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+ <link href="../CSS/StyleSheet1.css" rel="stylesheet" type="text/css" />
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+ 
+   
+    <style type="text/css">
+        .style1
+        {
+            font-size: small;
+            height: 509px;
+        }
+        .style3
+        {
+            text-align: right;
+        }
+    </style>
+ 
+   
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div class=master>
+   Melinda Ramos Homework 7
+          </div>
+        <hr />
+        <br />
+        <asp:Panel ID="Panel1" runat="server" BorderColor="#009900" BorderStyle="Solid" 
+            Height="631px" meta:resourcekey="Panel1Resource1">
+            <div class="style3">
+                <nav>
+                    <a href="HomePage.aspx">Home</a><a href="WebFormDemo.aspx"> WebFormDemo</a>
+                    <a href="AboutMe.aspx">AboutMe</a>
+                    <br />
+                </nav>
+            </div>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                <p class="style1">
+                    &nbsp;</p>
+                <br />
+                <br />
+                <br />
+                <br />
+                <br />
+                <br />
+                <br />
+            </asp:ContentPlaceHolder>
+            <br />
+            <br />     
+            <br />
+            <br />
+            <br style="text-align: center" />
+        </asp:Panel>
+ 
+    </form>
+    <hr />
+    <footer>
+        Melinda Ramos&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Email: 
+        <a href="mailto:Melinda.Ramos@student.csulb.edu">Melinda.Ramos@student.csulb.edu</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+        Phone: (562) 308-8379</footer>
+</body>
+</html>

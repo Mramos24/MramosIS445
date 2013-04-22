@@ -1,0 +1,68 @@
+﻿body 
+{
+    width: 600px;
+  margin-left:auto;
+margin-right:auto;  
+    font-size: large;
+    text-align: center;
+}
+
+.master
+{
+    font-size: x-large;
+    font-weight: bold;
+}
+
+.title
+{
+    color: Blue;
+    font-size: larger;
+    text-align: center;
+}
+
+div
+{    
+text-align: center;
+
+
+}
+   
+ hr
+ {
+     color:#00FF00;
+     height: 8px;
+ }
+ 
+ a:link
+ {
+     text-decoration: none;
+     text-align: right;
+   
+ }
+ 
+ a:hover
+ {
+     color: Red;     
+     text-align: right;
+     text-transform: uppercase;
+ }
+ 
+nav
+{
+    margin: 2em;
+    padding:0px 20px;
+}  
+
+.image
+{
+    width: 200px;
+    height: 200px;
+    float: right;
+}
+
+    
+ .form
+ {
+     text-align:left;
+    height: 369px;
+} 
